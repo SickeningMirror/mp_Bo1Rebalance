@@ -31,6 +31,7 @@ rumble\silencer_fire_l.rmb
 rumble\smg_fire_h.rmb
 rumble\smg_fire_l.rmb
 scripts\mp\bots_adapter_pt5.gsc
+scripts\mp\Perks.gsc
 weapons\mp\ak47_acog_dualclip_mp
 weapons\mp\ak47_acog_extclip_mp
 weapons\mp\ak47_acog_mp
