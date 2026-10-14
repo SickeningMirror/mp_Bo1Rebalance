@@ -1,7 +1,18 @@
 flameconfigs\default_flame.cfg
+images\perk_ghost.iwi
+images\perk_ghost_256.iwi
+images\perk_ghost_256_pro.iwi
+images\perk_ghost_pro.iwi
+images\perk_lightweight.iwi
+images\perk_lightweight_256.iwi
+images\perk_lightweight_256_pro.iwi
+images\perk_lightweight_pro.iwi
+localizedstrings\perks.str
+maps\mp\_airstrike.gsc
 maps\mp\_decoy.gsc
 maps\mp\_helicopter.gsc
 maps\mp\_mortar.gsc
+maps\mp\_napalm.gsc
 maps\mp\_spyplane.gsc
 maps\mp\_tabun.gsc
 maps\mp\_turret_killstreak.gsc
@@ -32,6 +43,7 @@ rumble\smg_fire_h.rmb
 rumble\smg_fire_l.rmb
 scripts\mp\bots_adapter_pt5.gsc
 scripts\mp\Perks.gsc
+weapons\mp\airstrike_mp
 weapons\mp\ak47_acog_dualclip_mp
 weapons\mp\ak47_acog_extclip_mp
 weapons\mp\ak47_acog_mp
@@ -116,7 +128,6 @@ weapons\mp\aug_reflex_extclip_mp
 weapons\mp\aug_reflex_mp
 weapons\mp\aug_reflex_silencer_mp
 weapons\mp\aug_silencer_mp
-weapons\mp\bomber_mp
 weapons\mp\china_lake_mp
 weapons\mp\commando_acog_dualclip_mp
 weapons\mp\commando_acog_extclip_mp
