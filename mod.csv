@@ -610,6 +610,7 @@ weapon,mp\willy_pete_mp
 rawfile,flameconfigs/default_flame.cfg
 rawfile,maps/mp/_airstrike.gsc
 rawfile,maps/mp/_bomber.gsc
+rawfile,maps/mp/_cameraspike.gsc
 rawfile,maps/mp/_decoy.gsc
 rawfile,maps/mp/_helicopter.gsc
 rawfile,maps/mp/_mortar.gsc

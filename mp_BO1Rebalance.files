@@ -1,5 +1,4 @@
 flameconfigs\default_flame.cfg
-images\perk_ghost.iwi
 images\perk_ghost_256.iwi
 images\perk_ghost_256_pro.iwi
 images\perk_ghost_pro.iwi
@@ -9,6 +8,7 @@ images\perk_lightweight_256_pro.iwi
 images\perk_lightweight_pro.iwi
 localizedstrings\perks.str
 maps\mp\_airstrike.gsc
+maps\mp\_cameraspike.gsc
 maps\mp\_decoy.gsc
 maps\mp\_helicopter.gsc
 maps\mp\_mortar.gsc
