@@ -472,6 +472,7 @@ weapon,mp\mpl_reflex_silencer_mp
 weapon,mp\mpl_rf_mp
 weapon,mp\mpl_rf_silencer_mp
 weapon,mp\mpl_silencer_mp
+weapon,mp\nightingale_mp
 weapon,mp\pm63_extclip_mp
 weapon,mp\pm63_grip_extclip_mp
 weapon,mp\pm63_grip_mp
@@ -609,6 +610,7 @@ weapon,mp\wa2000_vzoom_silencer_mp
 weapon,mp\willy_pete_mp
 rawfile,flameconfigs/default_flame.cfg
 rawfile,maps/mp/_airstrike.gsc
+rawfile,maps/mp/_ballistic_knife.gsc
 rawfile,maps/mp/_bomber.gsc
 rawfile,maps/mp/_cameraspike.gsc
 rawfile,maps/mp/_decoy.gsc
@@ -623,8 +625,10 @@ rawfile,maps/mp/gametypes/hlnd.gsc
 rawfile,maps/mp/gametypes/oic.gsc
 rawfile,maps/mp/gametypes/shrp.gsc
 rawfile,maps/mp/gametypes/_bot.gsc
+rawfile,maps/mp/gametypes/_hardpoints.gsc
 rawfile,maps/mp/gametypes/_killstreak_weapons.gsc
 rawfile,maps/mp/gametypes/_supplydrop.gsc
+rawfile,maps/mp/gametypes/_weaponobjects.gsc
 rawfile,maps/mp/gametypes/_weapons.gsc
 rawfile,maps/mp/bots/_bot_loadout.gsc
 rawfile,maps/mp/bots/_bot_script.gsc

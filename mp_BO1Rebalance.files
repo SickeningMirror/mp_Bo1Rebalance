@@ -1,4 +1,5 @@
 flameconfigs\default_flame.cfg
+images\perk_ghost.iwi
 images\perk_ghost_256.iwi
 images\perk_ghost_256_pro.iwi
 images\perk_ghost_pro.iwi
@@ -8,6 +9,7 @@ images\perk_lightweight_256_pro.iwi
 images\perk_lightweight_pro.iwi
 localizedstrings\perks.str
 maps\mp\_airstrike.gsc
+maps\mp\_ballistic_knife.gsc
 maps\mp\_cameraspike.gsc
 maps\mp\_decoy.gsc
 maps\mp\_helicopter.gsc
@@ -20,8 +22,10 @@ maps\mp\bots\_bot_loadout.gsc
 maps\mp\bots\_bot_script.gsc
 maps\mp\bots\_bot_utility.gsc
 maps\mp\gametypes\_bot.gsc
+maps\mp\gametypes\_hardpoints.gsc
 maps\mp\gametypes\_killstreak_weapons.gsc
 maps\mp\gametypes\_supplydrop.gsc
+maps\mp\gametypes\_weaponobjects.gsc
 maps\mp\gametypes\_weapons.gsc
 maps\mp\gametypes\gun.gsc
 maps\mp\gametypes\hlnd.gsc
@@ -513,6 +517,7 @@ weapons\mp\mpl_reflex_silencer_mp
 weapons\mp\mpl_rf_mp
 weapons\mp\mpl_rf_silencer_mp
 weapons\mp\mpl_silencer_mp
+weapons\mp\nightingale_mp
 weapons\mp\pm63_extclip_mp
 weapons\mp\pm63_grip_extclip_mp
 weapons\mp\pm63_grip_mp
