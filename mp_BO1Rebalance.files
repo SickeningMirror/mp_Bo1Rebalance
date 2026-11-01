@@ -1,4 +1,6 @@
 flameconfigs\default_flame.cfg
+images\mapvote1.png
+images\mapvote2.png
 images\perk_ghost.iwi
 images\perk_ghost_256.iwi
 images\perk_ghost_256_pro.iwi
@@ -46,6 +48,8 @@ rumble\silencer_fire_l.rmb
 rumble\smg_fire_h.rmb
 rumble\smg_fire_l.rmb
 scripts\mp\bots_adapter_pt5.gsc
+scripts\mp\mapvote.gsc
+scripts\mp\mapvote_mp_extend.gsc
 scripts\mp\Perks.gsc
 weapons\mp\airstrike_mp
 weapons\mp\ak47_acog_dualclip_mp
