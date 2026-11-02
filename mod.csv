@@ -608,6 +608,7 @@ weapon,mp\wa2000_vzoom_extclip_mp
 weapon,mp\wa2000_vzoom_mp
 weapon,mp\wa2000_vzoom_silencer_mp
 weapon,mp\willy_pete_mp
+rawfile,mp/attachmenttable.csv
 rawfile,flameconfigs/default_flame.cfg
 rawfile,maps/mp/_airstrike.gsc
 rawfile,maps/mp/_ballistic_knife.gsc
